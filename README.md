@@ -79,13 +79,6 @@ Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 Builds the app for production to the `target` folder.\
 It correctly bundles Spring Boot app in production mode and optimizes the build for the best performance.
 
-Your app is ready to be deployed!
-
 # Approach: 🚶
 We are using React for frontend UI and Java Spring Boot for backend API with MVC Architecture.
 
-# Status: 📶
-Work in Progress...🛠️
-
-# License: ©️
-Apache-2.0 License (**[Check Here](https://github.com/ved-asole/eKart-ecommerce-app/blob/master/LICENSE)**)
